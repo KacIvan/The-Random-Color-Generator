@@ -1,4 +1,7 @@
-# 🇺🇸 [**The Random Color Generator**](https://kacivan.github.io/The-Random-Color-Generator/)
+# [**The Random Color Generator**](https://kacivan.github.io/The-Random-Color-Generator/)
+This is a clone of popular services for generating a palette of random colors.
+____
+## 🇺🇸 **Description:**
 This is a clone of popular services for generating HEX-format colors in pure JavaScript using several third-party libraries.
 
 **How to use:**
@@ -7,7 +10,7 @@ This is a clone of popular services for generating HEX-format colors in pure Jav
 - Clicking on the lock icon fixes or unlocks the current color (the color will not change during generation)
 - The button in the footer copies the link to the current colors, that is, you can share your palette with another person
 ____
-# 🇷🇺 [**Генератор случайных цветов**](https://kacivan.github.io/The-Random-Color-Generator/)
+## 🇷🇺 **Описание:**
 Это клон популярных сервисов для генерации цветов HEX-формата на чистом JavaScript с использованием нескольких сторонних библиотек.
 
 **Как использовать:**
